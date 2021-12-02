@@ -1,0 +1,97 @@
+[
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "환경 설정 관련"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "기능 개발"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "버그 수정"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "1D76DB",
+    "description": "문서 작성 및 수정 (README.md 등)"
+  },
+  {
+    "name": "⏳ In Review",
+    "color": "D4C5F9",
+    "description": "리뷰중"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "9ED447",
+    "description": "질문있습니다!!"
+  },
+  {
+    "name": "💯 Review Completed",
+    "color": "00FB2A",
+    "description": "리뷰완료 했습니다."
+  },
+  {
+    "name": "🔇 Review Not Required",
+    "color": "000000",
+    "description": "리뷰없이 Self Merge 합니다."
+  },
+  {
+    "name": "👀 Review Needed",
+    "color": "F23920",
+    "description": "리뷰어의 리뷰가 필요합니다!!"
+  },
+  {
+    "name": "👨🏻‍💻 Gil-Soo",
+    "color": "ccffc4",
+    "description": "강길수"
+  },
+  {
+    "name": "🎴 Hae-Myung",
+    "color": "C5DEF5",
+    "description": "양해명"
+  },
+  {
+    "name": "🥁 Gyu-Min",
+    "color": "FEF2C0",
+    "description": "지규민"
+  },
+  {
+    "name": "🎾 Joon-Seok",
+    "color": "C2E0C6",
+    "description": "이준석"
+  },
+  {
+    "name": "💸 Jong-Soo",
+    "color": "6B33FF",
+    "description": "임종수"
+  },
+  {
+    "name": "☘️  So-Hyang",
+    "color": "DAF7A6",
+    "description": "전소향"
+  },
+  {
+    "name": "🎧 Tae-Yoon",
+    "color": "B9AFB6",
+    "description": "박태윤"
+  },
+  {
+    "name": "🍗 Jae-Myung",
+    "color": "E6AE24",
+    "description": "박재명"
+  },
+  {
+    "name": "🐧 Mi-Sun",
+    "color": "facfcf",
+    "description": "유미선"
+  }
+]
