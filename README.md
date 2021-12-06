@@ -7,7 +7,11 @@
 - feature 및 hotfix는 merge 후 삭제한다
 - 브랜치명
   - feature: feature/{issue-number}-blabla
-  - hotfix: hotfix/{issue-number}-blabla 
+  - hotfix: hotfix/{issue-number}-blabla
+- setting Rules
+  - github > Settings > Branches > Branch protection rules > Add rule
+  - Main/Develop branch에 rule 적용
+  -
   
 ## PR & Issue
 - issue 없는 PR은 없다
