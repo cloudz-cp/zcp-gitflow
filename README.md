@@ -11,10 +11,10 @@
 - setting Rules
   - github > Settings > Branches > Branch protection rules > Add rule
   - Main/Develop branch에 rule 적용
-  -
+  - ![스크린샷 2021-12-06 오후 5 07 10](https://user-images.githubusercontent.com/56831448/144809987-e607037e-9174-44d7-8e6b-af5cf5cba36a.png)
+
   
-## PR & Issue
-- issue 없는 PR은 없다
+## PR & Issue- issue 없는 PR은 없다
 - issue, PR, Release Note가 연결되기 때문에, issue의 naming에 신경쓴다
 - issue와 PR은 template 양식에 맞춘다
 - PR은 아래와 같은 상황을 제외하고는 본인 제외 1명 이상의 Review를 받는다
