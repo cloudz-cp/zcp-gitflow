@@ -1,8 +1,8 @@
 # zcp-gitflow
 
 ## Branch 
-- develop, master, feature, hotfix만 사용
-- master, develop에 직접적인 commit은 금지
+- develop, main, feature, hotfix만 사용
+- main, develop에 직접적인 commit은 금지
 - feature, hotfix의 commit 메세지는 자유롭게 작성
 - feature 및 hotfix는 merge 후 삭제한다
 - 브랜치명
