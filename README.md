@@ -8,7 +8,7 @@
 - 브랜치명
   - feature: feature/{issue-number}-blabla
   - hotfix: hotfix/{issue-number}-blabla
-- setting Rules
+- setting rules
   - github > Settings > Branches > Branch protection rules > Add rule
   - Main/Develop branch에 rule 적용
   - ![스크린샷 2021-12-06 오후 5 07 10](https://user-images.githubusercontent.com/56831448/144809987-e607037e-9174-44d7-8e6b-af5cf5cba36a.png)
