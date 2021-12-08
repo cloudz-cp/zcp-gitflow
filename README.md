@@ -12,7 +12,10 @@
   - github > Settings > Branches > Branch protection rules > Add rule
   - Main/Develop branch에 rule 적용
   - ![스크린샷 2021-12-06 오후 5 07 10](https://user-images.githubusercontent.com/56831448/144809987-e607037e-9174-44d7-8e6b-af5cf5cba36a.png)
-
+- setting default branch
+  - default branch를 develop으로 변경 
+  - issue & pr template은 default branch를 기준으로 적용되기 때문에 필요 
+  ![스크린샷 2021-12-08 오후 5 39 17](https://user-images.githubusercontent.com/56831448/145176280-24be282f-6108-4011-b667-8954e0d24bfd.png)
   
 ## PR & Issue
 - issue 없는 PR은 없다
