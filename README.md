@@ -26,8 +26,8 @@
   - Slack을 통해 파트 전체에게 리뷰없이 Merge하겠다는 의사를 밝힌경우
 - PR의 Merge는 스스로 한다 
 - github의 merge는 [Create a merge commit] & [Squash and merge]만 사용
-  - [Create a merge commit]: main-branch와 main-branch간의 merge시에 사용
-  - [Squash and merge]: 임시-branch와 main-branch간의 merge시에 사용
+  - [Create a merge commit]: develop-branch와 main-branch간의 merge시에 사용
+  - [Squash and merge]: 임시-branch와 develop-branch간의 merge시에 사용
 - issue명
   - [kind] issue 이름 
   - ex) [bug] Cannot access zcp-console 
