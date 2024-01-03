@@ -32,8 +32,8 @@
   - [kind] issue 이름 
   - ex) [bug] Cannot access zcp-console 
 - PR명
-  - issue의 첫번째 PR: Resolved#{issue_number}-{issue 이름}
-  - issue의 두번째 PR: Re-Resolved#{issue_number}-{수정사항요약}
+  - issue의 첫번째 PR: `Resolved#{issue_number}-{issue 이름}`
+  - issue의 두번째 PR: `Re-Resolved#{issue_number}-{수정사항요약}`
   - ...
   - issue의 N번째 PR: Re-Resolved#{issue_number}-{수정사항요약}
 
